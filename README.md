@@ -1,16 +1,53 @@
-### Hi there 👋
+## Hello user! <img src="https://raw.githubusercontent.com/zluvsand/zluvsand/master/wave.gif" height="25px" width="25px">
 
-<!--
-**IvanChapler/IvanChapler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### :new_moon: I'll be brief, I'm fond of programming ;D
 
-Here are some ideas to get you started:
+<br>
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h4>:waxing_crescent_moon: Languages</h4>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ivanchapler&layout=compact&theme=dark"/>
+
+<br>
+
+<h4>:waxing_crescent_moon: Main repositories</h4>
+<div style="display:flex; margin-top:-100px;">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ivanchapler&repo=cryptonomicon-vue&theme=dark" style="
+    width: 360px;
+    height: 117px;
+    outline: solid white 1.5px;
+    border-radius: 5px;
+    outline-offset: -1.5px;
+    object-fit: cover;
+    object-position: left;
+    "/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ivanchapler&repo=minesweeper-vue&theme=dark" style="
+    width: 360px;
+    height: 117px;
+    outline: solid white 1.5px;
+    border-radius: 5px;
+    outline-offset: -1.5px;
+    object-fit: cover;
+    object-position: left;
+    "/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ivanchapler&repo=fighting-game&theme=dark" style="
+    width: 360px;
+    height: 117px;
+    outline: solid white 1.5px;
+    border-radius: 5px;
+    outline-offset: -1.5px;
+    object-fit: cover;
+    object-position: left;
+    "/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ivanchapler&repo=pulse-monitors&theme=dark" style="
+    width: 360px;
+    height: 117px;
+    outline: solid white 1.5px;
+    border-radius: 5px;
+    outline-offset: -1.5px;
+    object-fit: cover;
+    object-position: left;
+    "/>
+</div>
+
+
